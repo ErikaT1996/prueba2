@@ -10,5 +10,7 @@ package javaapplication14;
  * @author Invitado
  */
 public class Zambrano {
-    
+    public static void main(String[]args){
+        System.out.println("Hi Hitler!");
+    }
 }
